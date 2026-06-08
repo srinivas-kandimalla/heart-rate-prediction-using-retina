@@ -6,7 +6,7 @@ A real-time computer vision application that estimates heart rate (BPM) using ey
 
 ## Output
 
-![Dashboard Output](heart_rate_prediction_using_retina_dashboard.png)
+![Dashboard Output](outputs/heart_rate_prediction_using_retina_dashboard.png)
 
 ---
 
